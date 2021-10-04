@@ -1,0 +1,16 @@
+{
+  "id": "ABCD4567",
+  "date": "2020-12-31 23:59:59",
+  "status": "fogadva",
+  "name": "Kov\u00e1cs B\u00e9la",
+  "mail": "email@cim.tld",
+  "addr": "Kossuth utca 5.",
+  "town": "Budapest 01. ker\u00fclet",
+  "county": "Budapest",
+  "comment": "Megjegyz\u00e9s",
+  "ip": "23.75.345.200",
+  "basket": {
+    "reszelo": 2,
+    "felhomaly": 4
+  }
+}

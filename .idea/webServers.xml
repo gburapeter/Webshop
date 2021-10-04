@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="790eb903-1a75-4b7d-8dff-7272011f891b" name="beta" url="https://beta.dev.itk.ppke.hu/webprog/ghipe1">
+        <fileTransfer rootFolder="/home/ghipe1/" accessType="SFTP" host="beta.dev.itk.ppke.hu" port="22" sshConfigId="392e3896-7d44-4c9a-a6fc-6a560a4bbaea" sshConfig="ghipe1@beta.dev.itk.ppke.hu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

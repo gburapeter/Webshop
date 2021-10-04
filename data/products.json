@@ -1,0 +1,47 @@
+[
+  {
+    "id": "arvizturo",
+    "name": "Árvíztűrő tükörfúrógép",
+    "promo": true,
+    "price": 31540,
+    "stock": 2,
+    "lead": "Ez egy olyan termék, amire mindenkinek szüksége van. Vegye meg MOST!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam eleifend, dictum nibh nec, venenatis mauris."
+  },
+  {
+    "id": "felhomaly",
+    "name": "Talpas félhomálymérő",
+    "promo": true,
+    "price": 5140,
+    "stock": 5,
+    "lead": "Tudni szeretné, mennyi a félhomály? Ezt a terméket Önnek találták ki!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam eleifend, dictum nibh nec, venenatis mauris."
+  },
+  {
+    "id": "reszelo",
+    "name": "Reszelőzsír",
+    "promo": false,
+    "price": 660,
+    "stock": 0,
+    "lead": "A kenőanyag-szakértők utálják ezt! Nem kell más hozzá, csak egy...",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam eleifend, dictum nibh nec, venenatis mauris."
+  },
+  {
+    "id": "kanyar",
+    "name": "Kanyarfúró 2000",
+    "promo": true,
+    "price": 1990,
+    "stock": 12,
+    "lead": "Nem elég derék a szög? Különleges fúrónkkal sikerülni fog!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam eleifend, dictum nibh nec, venenatis mauris."
+  },
+  {
+    "id": "fazis",
+    "name": "Fázisegyengető kalapács",
+    "promo": false,
+    "price": 2499,
+    "stock": 0,
+    "lead": "Ne hagyja, hogy a feszültség csak úgy váltakozzon, kalapálja egyenesre!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam eleifend, dictum nibh nec, venenatis mauris."
+  }
+]

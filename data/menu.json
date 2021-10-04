@@ -1,0 +1,19 @@
+[
+  {
+    "path": "",
+    "caption": "Kezdőlap"
+  },
+  {
+    "path": "terms",
+    "caption": "ÁSZF"
+  },
+  {
+    "path": "products",
+    "caption": "Termékek"
+  },
+
+  {
+    "path": "order",
+    "caption": "Megrendelés"
+  }
+]

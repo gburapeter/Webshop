@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteBase /webprog/ghipe1/
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [L,R=301]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ router.php [L]
+
+DirectoryIndex router.php

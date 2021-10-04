@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="beta" filePermissions="388" folderPermissions="453" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="beta">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public" local="$PROJECT_DIR$/public" web="/" />
+            <mapping deploy="/app" local="$PROJECT_DIR$/app" web="/" />
+            <mapping deploy="/data" local="$PROJECT_DIR$/data" web="/" />
+            <mapping deploy="/view" local="$PROJECT_DIR$/view" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
